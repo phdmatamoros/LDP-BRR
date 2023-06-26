@@ -53,7 +53,7 @@ from numpy import inf
 from sklearn.preprocessing import LabelEncoder
 from sklearn.linear_model import ARDRegression, LinearRegression, BayesianRidge
 
-from aghmJan18Functions import *
+from aghmFunctions import *
 from pure_ldp.frequency_oracles import *
 from pure_ldp.heavy_hitters import *
 from pure_ldp.core import generate_hash_funcs
