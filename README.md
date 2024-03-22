@@ -1,10 +1,8 @@
 # LDP-BRR
 
-This repository contains the information necessary to reproduce the results of the paper "An Efficient Local Differential Privacy Scheme Using Bayesian Ridge Regression" submitted at the [PST 2023](https://pstnet.ca/) conference.
+This repository contains the information necessary to reproduce the results of the paper "Comparative Analysis of Local Differential Privacy Schemes in Healthcare Datasets" submitted at the [Applied Sciences]([https://pstnet.ca/](https://phdmatamoros.github.io/AGHM-CV/)) Journal.
 
 The dataset udes is [Nursery dataset](https://archive.ics.uci.edu/dataset/76/nursery)
-
-This experiments were run on a machine with Intel Core i7-12700H  with a GPU NVIDIA GeForce RTX 3070Ti
 
 Python 3.9.12 and CUDA version 11.6
 
